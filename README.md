@@ -1,2 +1,3 @@
 # hello-world
-tutorial
+
+Paying homage to hello-world exercises. 
